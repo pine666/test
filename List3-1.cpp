@@ -9,6 +9,7 @@ int main()
 	int judge;
 	int retry;
 	int i;
+	int add;
 	const char *hd[] = { "石头","剪刀","布" };
 
 
