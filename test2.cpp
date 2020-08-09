@@ -19,7 +19,7 @@ int main(void)
 	//printf("\r\aFIRE!!!\n");
 	//c = clock();
 
-	//printf("³ÌĞò¿ªÊ¼ÔËĞĞºó¾­¹ıÁË%.dÃë¡£\n", (long) c / CLOCKS_PER_SEC);
+	//printf("ç¨‹åºå¼€å§‹è¿è¡Œåç»è¿‡äº†%.dç§’ã€‚\n", (long) c / CLOCKS_PER_SEC);
 	//sec = (int)((long)c / CLOCKS_PER_SEC);
 	//min = sec / 60;
 	//sec = sec % 60;
