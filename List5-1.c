@@ -23,7 +23,7 @@ int main  (void)
                 int no = rand() %9000+1000;
                 printf("%d",no);
                 fflush(stdout);
-                sleep(500);
+                sleep(5000);
 
                 printf("\r 请输入：");
                 fflush(stdout);
